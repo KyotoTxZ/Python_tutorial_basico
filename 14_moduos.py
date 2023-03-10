@@ -4,7 +4,6 @@
 ## las culaes podemos acceder con IMPORT 
 import modulo_ejm
 from modulo_ejm import printValue
-math.pi
 
 # from 11_funciones import sum_two_values #= los archivos con numeros no los acepta python
 
